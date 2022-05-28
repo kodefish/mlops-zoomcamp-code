@@ -1,2 +1,7 @@
 data/*
 .ipynb_checkpoints/* 
+*/.ipynb_checkpoints/* 
+*/output
+*/mlruns
+*/artifacts
+*.db
